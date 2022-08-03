@@ -1,4 +1,4 @@
-# Paper With Code knowledge graph (pwc_kg)
+# Papers With Code knowledge graph (pwc_kg)
 ##  🚀 How to start :
 - Step 1 : Create a folder called data 
 - Step 2 : Create 3 folders inside raw,bronze,knowledge_graph
